@@ -35,7 +35,7 @@ I am Mobile and Backend developer from Ukraine 🇺🇦
                                                      </a>
 ---
 
-### 🛠 Languages and tools
+### 🛠 Languages and tools :
 <div id="tools">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
@@ -51,3 +51,10 @@ I am Mobile and Backend developer from Ukraine 🇺🇦
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title="Andorid" alt="Andorid" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 🔥 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lapin7771n&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lapin7771n&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
