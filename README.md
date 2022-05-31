@@ -28,7 +28,7 @@
 
 I am Mobile and Backend developer from Ukraine 🇺🇦
 
-- 💻 I'm working as Flutter and Spring Engineer at N-iX
+- 💻 I'm working as Flutter and Backend Engineer at N-iX
 - 📝 Writing some useful content on Medium
 - 🌍 Trying to explore the world and reposting it here: <a href="https://www.instagram.com/nikilapi/">
                         <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
